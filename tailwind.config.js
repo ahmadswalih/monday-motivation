@@ -1,3 +1,10 @@
+const {
+  Reenie_Beanie,
+  Madimi_One,
+  Poppins,
+  Montserrat,
+} = require("next/font/google");
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -11,6 +18,11 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
+      fontFamily: {
+        Reenie_Beanie: ["Reenie Beanie", "cursive"],
+        Madimi_One: ["Madimi One", "cursive"],
+        Montserrat: ["Montserrat", "sans-serif"],
       },
     },
   },
