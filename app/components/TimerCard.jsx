@@ -44,7 +44,7 @@ const TimerCard = () => {
     return unit < 10 ? `0${unit}` : unit;
   }
   return (
-    <div className=" mt-24   dark:bg-gray-700 max-w-md mx-auto rounded-lg shadow-lg overflow-hidden">
+    <div className=" mt-24    max-w-md mx-auto rounded-lg shadow-lg overflow-hidden">
       <img
         className="absolute w-[28rem] -mt-36 -ml-5 "
         src="/image.svg"
@@ -57,20 +57,20 @@ const TimerCard = () => {
             : `${timeUntilWeekend.days} days and ${timeUntilWeekend.hours} hours left until the next weekend`}
         </div>
         <div className="flex items-center  justify-between">
-          <div className="flex items-center space-x-2 text-gray-600 dark:text-gray-400">
-            <div className="bg-gray-200 dark:bg-gray-700 rounded-md p-2 text-center w-12 h-12">
+          <div className="flex items-center space-x-2 text-gray-600 ">
+            <div className="bg-gray-200  rounded-md p-2 text-center w-12 h-12">
               <span className="text-xl font-semibold">
                 {formatTime(timeUntilWeekend.hours)}
               </span>
             </div>
             <span className="text-xl">:</span>
-            <div className="bg-gray-200 dark:bg-gray-700 rounded-md p-2 text-center w-12 h-12">
+            <div className="bg-gray-200  rounded-md p-2 text-center w-12 h-12">
               <span className="text-xl font-semibold">
                 {formatTime(timeUntilWeekend.minutes)}
               </span>
             </div>
             <span className="text-xl">:</span>
-            <div className="bg-gray-200 dark:bg-gray-700 rounded-md p-2 text-center w-12 h-12">
+            <div className="bg-gray-200  rounded-md p-2 text-center w-12 h-12">
               <span className="text-xl font-semibold">
                 {formatTime(timeUntilWeekend.seconds)}
               </span>
