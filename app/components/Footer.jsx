@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="flex items-center mt-28 z-50 justify-between">
+    <div className="flex items-center   mt-20 z-50 justify-between">
       <a
         className="text-white cursor-pointer  "
         target="_blank"
@@ -13,9 +13,9 @@ const Footer = () => {
         ©ahmadswalih.com
       </a>
       <a
-        className="text-white ml-10 "
+        className="text-white  ml-10 "
         target="_blank"
-        href="https://ahmadswalih.com"
+        href="https://github.com/ahmadswalih/monday-motivation"
       >
         {" "}
         <p>contribute</p>

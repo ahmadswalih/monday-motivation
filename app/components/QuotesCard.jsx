@@ -31,7 +31,7 @@ const MondayQuoteCard = () => {
   return (
     <div className="bg-white mt-24 z-50 dark:bg-gray-800 max-w-md mx-auto rounded-lg shadow-lg overflow-hidden">
       <div className="p-6">
-        <div className="text-lg font-semibold text-gray-800 dark:text-white mb-4">
+        <div className="md:text-lg font-semibold text-gray-800 dark:text-white mb-4">
           <p>{quote}</p>
         </div>
         <div className="flex items-center justify-between">
@@ -39,20 +39,20 @@ const MondayQuoteCard = () => {
             className="flex items-center space-x-2 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-300 focus:outline-none"
             onClick={copyToClipboard}
           >
-            <IoCopyOutline className="w-5 h-5" />
+            <IoCopyOutline className="md:w-5 md:h-5" />
             <span>{copied ? "Copied!" : ""}</span>
           </button>
           <button
             className="text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-300 focus:outline-none"
             onClick={shareOnInstagram}
           >
-            <IoLogoInstagram className="w-5 h-5" />
+            <IoLogoInstagram className="md:w-5 md:h-5" />
           </button>
           <button
             className="text-gray-600  cursor-pointer hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-300 focus:outline-none"
             onClick={generateNewQuote}
           >
-            <IoRefresh className="w-5 h-5" />
+            <IoRefresh className="md:w-5 md:h-5" />
           </button>
         </div>
       </div>
