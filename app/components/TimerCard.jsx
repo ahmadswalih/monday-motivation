@@ -46,7 +46,7 @@ const TimerCard = () => {
   return (
     <div className=" mt-24    max-w-md mx-auto rounded-lg shadow-lg overflow-hidden">
       <img
-        className="absolute w-[28rem] -mt-36 -ml-5 "
+        className="absolute w-[26rem] md:w-[28rem] -mt-36  "
         src="/image.svg"
         alt="shape"
       />
