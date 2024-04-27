@@ -3,9 +3,9 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="flex items-center   mt-20 z-50 justify-between">
+    <div className="flex justify-center items-center  absolute  inset-x-0 bottom-16  md:bottom-72 z-50 ">
       <a
-        className="text-white cursor-pointer  "
+        className="text-white  p-2 bg-gray-700 cursor-pointer  "
         target="_blank"
         rel="noopener noreferrer"
         href="https://ahmadswalih.com"
@@ -13,7 +13,7 @@ const Footer = () => {
         ©ahmadswalih.com
       </a>
       <a
-        className="text-white  ml-10 "
+        className="text-white  p-2 bg-gray-700 ml-10 "
         target="_blank"
         href="https://github.com/ahmadswalih/monday-motivation"
       >

@@ -4,7 +4,10 @@ import { IoCopyOutline, IoLogoInstagram, IoRefresh } from "react-icons/io5"; // 
 import quotes from "../data/quotes.json";
 
 const MondayQuoteCard = () => {
-  const [quote, setQuote] = useState("");
+  const [quote, setQuote] = useState({
+    quote: "",
+    author: "",
+  });
   const [copied, setCopied] = useState(false);
 
   const copyToClipboard = () => {
@@ -22,17 +25,19 @@ const MondayQuoteCard = () => {
   // Function to fetch a random quote from the JSON data
   const generateNewQuote = () => {
     const randomIndex = Math.floor(Math.random() * quotes.length);
-    const newQuote = quotes[randomIndex].quote;
+    const newQuote = quotes[randomIndex];
     setQuote(newQuote);
+    console.log(quote);
   };
   useEffect(() => {
     generateNewQuote();
   }, []);
   return (
-    <div className="bg-white mt-24 z-50  max-w-md mx-auto rounded-lg shadow-lg overflow-hidden">
+    <div className="bg-white md:mt-20 mt-10  w-96 md:w-[28rem]      mx-auto rounded-lg shadow-lg overflow-hidden">
       <div className="p-6">
         <div className="md:text-lg font-semibold text-gray-800  mb-4">
-          <p>{quote}</p>
+          <p>{quote.quote}</p>
+          <p className="text-md font-light mt-2"> --{quote.author}</p>
         </div>
         <div className="flex items-center justify-between">
           <button
