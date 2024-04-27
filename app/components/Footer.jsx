@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="flex justify-center items-center  absolute  inset-x-0 bottom-16  md:bottom-72 z-50 ">
+    <div className="flex justify-center items-center  absolute  inset-x-0 bottom-16  md:bottom-72  ">
       <a
         className="text-white  p-2 bg-gray-700 cursor-pointer  "
         target="_blank"
