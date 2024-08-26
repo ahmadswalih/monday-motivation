@@ -33,7 +33,7 @@ const MondayQuoteCard = () => {
     generateNewQuote();
   }, []);
   return (
-    <div className="bg-white md:mt-20 mt-10  w-96 md:w-[28rem]      mx-auto rounded-lg shadow-lg overflow-hidden">
+    <div className="bg-white md:mt-20 mt-10  w-[95%] md:w-[28rem]      mx-auto rounded-lg shadow-lg overflow-hidden">
       <div className="p-6">
         <div className="md:text-lg font-semibold text-gray-800  mb-4">
           <p>{quote.quote}</p>

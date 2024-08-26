@@ -50,7 +50,7 @@ const TimerCard = () => {
     return unit < 10 ? `0${unit}` : unit;
   }
   return (
-    <div className=" mt-10 md:mt-24 flex items-center justify-center    w-96 md:w-[26rem] mx-auto rounded-lg shadow-lg overflow-hidden">
+    <div className=" mt-10 md:mt-24 flex items-center justify-center    w-[95%] md:w-[26rem] mx-auto rounded-lg shadow-lg overflow-hidden">
       <div className="p-6 border border-2-white ">
         <div className="text-lg font-semibold text-white mb-4">
           {timeUntilWeekend.partyTime
@@ -60,7 +60,7 @@ const TimerCard = () => {
         {timeUntilWeekend.partyTime ? (
           ""
         ) : (
-          <div className="flex items-center  justify-between">
+          <div className="flex items-center  justify-center">
             <div className="flex items-center space-x-2 text-gray-600 ">
               <div className="bg-gray-200  rounded-md p-2 text-center w-12 h-12">
                 <span className="text-xl font-semibold">
