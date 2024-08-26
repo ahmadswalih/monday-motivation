@@ -1,203 +1,807 @@
 [
-    {"id": 1, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 2, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 3, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 4, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 5, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 6, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 7, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 8, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 9, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 10, "quote": "The only person you should try to be better than is the person you were yesterday.", "author": "Anonymous"},
-    {"id": 11, "quote": "The only way to achieve the impossible is to believe it is possible.", "author": "Charles Kingsleigh (Alice in Wonderland)"},
-    {"id": 12, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 13, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 14, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 15, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 16, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 17, "quote": "The only limit to our realization of tomorrow is our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 18, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 19, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 20, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 21, "quote": "The only way to achieve the impossible is to believe it is possible.", "author": "Charles Kingsleigh (Alice in Wonderland)"},
-    {"id": 22, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 23, "quote": "The only person you should try to be better than is the person you were yesterday.", "author": "Anonymous"},
-    {"id": 24, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 25, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 26, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 27, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 28, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 29, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 30, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 31, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 32, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 33, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 34, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 35, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 36, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 37, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 38, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 39, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 40, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 41, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 42, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 43, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 44, "quote": "The only person you should try to be better than is the person you were yesterday.", "author": "Anonymous"},
-    {"id": 45, "quote": "The only way to achieve the impossible is to believe it is possible.", "author": "Charles Kingsleigh (Alice in Wonderland)"},
-    {"id": 46, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 47, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 48, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 49, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 50, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 51, "quote": "The only limit to our realization of tomorrow is our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 52, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 53, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 54, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 55, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 56, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 57, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 58, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 59, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 60, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 61, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 62, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 63, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 64, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 65, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 66, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 67, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 68, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 69, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 70, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 71, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 72, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 73, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 74, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 75, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 76, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 77, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 78, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 79, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 80, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 81, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 82, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 83, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 84, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 85, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 86, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 87, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 88, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 89, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 90, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 91, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 92, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 93, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 94, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 95, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 96, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 97, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 98, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 99, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 100, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 101, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 102, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 103, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 104, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 105, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 106, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 107, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 108, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 109, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 110, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 111, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 112, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 113, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 114, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 115, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 116, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 117, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 118, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 119, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 120, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 121, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 122, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 123, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 124, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 125, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 126, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 127, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 128, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 129, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 130, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 131, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 132, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 133, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 134, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 135, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 136, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 137, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 138, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 139, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 140, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 141, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 142, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 143, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 144, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 145, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 146, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 147, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 148, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 149, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 150, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 151, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 152, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 153, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 154, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 155, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 156, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 157, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 158, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 159, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 160, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 161, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 162, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 163, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 164, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 165, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 166, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 167, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 168, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 169, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 170, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 171, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 172, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 173, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 174, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 175, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 176, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 177, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 178, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 179, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 180, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 181, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 182, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 183, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"},
-    {"id": 184, "quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"},
-    {"id": 185, "quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"},
-    {"id": 186, "quote": "It always seems impossible until it is done.", "author": "Nelson Mandela"},
-    {"id": 187, "quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"id": 188, "quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"id": 189, "quote": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"id": 190, "quote": "Life is not about waiting for the storm to pass, but learning to dance in the rain.", "author": "Anonymous"},
-    {"id": 191, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 192, "quote": "Stay hungry, stay foolish.", "author": "Steve Jobs"},
-    {"id": 193, "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"id": 194, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"id": 195, "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.", "author": "Albert Schweitzer"},
-    {"id": 196, "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"id": 197, "quote": "The only limit to our realization of tomorrow will be our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"id": 198, "quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"id": 199, "quote": "You don’t have to be great to start, but you have to start to be great.", "author": "Zig Ziglar"},
-    {"id": 200, "quote": "Success is not just about the destination, it’s about the journey.", "author": "Anonymous"}
-  ]
-  
+  {
+    "id": 1,
+    "quote": "The code you write today is the foundation of tomorrow's innovation.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 2,
+    "quote": "Bugs are just undocumented features waiting to be discovered.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 3,
+    "quote": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House"
+  },
+  {
+    "id": 4,
+    "quote": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs"
+  },
+  {
+    "id": 5,
+    "quote": "Programming isn't about what you know; it's about what you can figure out.",
+    "author": "Chris Pine"
+  },
+  {
+    "id": 6,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 7,
+    "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+    "author": "Patrick McKenzie"
+  },
+  {
+    "id": 8,
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "id": 9,
+    "quote": "It's not a bug – it's an undocumented feature.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 10,
+    "quote": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes"
+  },
+  {
+    "id": 11,
+    "quote": "Clean code always looks like it was written by someone who cares.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "id": 12,
+    "quote": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 13,
+    "quote": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman"
+  },
+  {
+    "id": 14,
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "id": 15,
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "id": 16,
+    "quote": "The only way to learn a new programming language is by writing programs in it.",
+    "author": "Dennis Ritchie"
+  },
+  {
+    "id": 17,
+    "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+    "author": "Dan Salomon"
+  },
+  {
+    "id": 18,
+    "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+    "author": "Antoine de Saint-Exupery"
+  },
+  {
+    "id": 19,
+    "quote": "Code is like poetry; it's best when it's both concise and eloquent.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 20,
+    "quote": "The Internet? We are not interested in it.",
+    "author": "Bill Gates (1993)"
+  },
+  {
+    "id": 21,
+    "quote": "The most disastrous thing that you can ever learn is your first programming language.",
+    "author": "Alan Kay"
+  },
+  {
+    "id": 22,
+    "quote": "The function of good software is to make the complex appear to be simple.",
+    "author": "Grady Booch"
+  },
+  {
+    "id": 23,
+    "quote": "Don't comment bad code - rewrite it.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "id": 24,
+    "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.",
+    "author": "Rick Cook"
+  },
+  {
+    "id": 25,
+    "quote": "Weeks of coding can save you hours of planning.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 26,
+    "quote": "Before software can be reusable it first has to be usable.",
+    "author": "Ralph Johnson"
+  },
+  {
+    "id": 27,
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+    "author": "Edsger Dijkstra"
+  },
+  {
+    "id": 28,
+    "quote": "The best way to predict the future is to implement it.",
+    "author": "David Heinemeier Hansson"
+  },
+  {
+    "id": 29,
+    "quote": "Good code is its own best documentation.",
+    "author": "Steve McConnell"
+  },
+  {
+    "id": 30,
+    "quote": "Software and cathedrals are much the same — first we build them, then we pray.",
+    "author": "Sam Redwine"
+  },
+  {
+    "id": 31,
+    "quote": "It's not a bug – it's an undocumented feature.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 32,
+    "quote": "The best thing about a boolean is even if you are wrong you are only off by a bit.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 33,
+    "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John Woods"
+  },
+  {
+    "id": 34,
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "id": 35,
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "id": 36,
+    "quote": "The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.",
+    "author": "Randall E. Stross"
+  },
+  {
+    "id": 37,
+    "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "id": 38,
+    "quote": "The computer was born to solve problems that did not exist before.",
+    "author": "Bill Gates"
+  },
+  {
+    "id": 39,
+    "quote": "One man's crappy software is another man's full-time job.",
+    "author": "Jessica Gaston"
+  },
+  {
+    "id": 40,
+    "quote": "It's harder to read code than to write it.",
+    "author": "Joel Spolsky"
+  },
+  {
+    "id": 41,
+    "quote": "The greatest performance improvement of all is when a system goes from not-working to working.",
+    "author": "John Ousterhout"
+  },
+  {
+    "id": 42,
+    "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "id": 43,
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard"
+  },
+  {
+    "id": 44,
+    "quote": "Today's programming is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.",
+    "author": "Rick Cook"
+  },
+  {
+    "id": 45,
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates"
+  },
+  {
+    "id": 46,
+    "quote": "If you think your users are idiots, only idiots will use it.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "id": 47,
+    "quote": "The purpose of software engineering is to control complexity, not to create it.",
+    "author": "Pamela Zave"
+  },
+  {
+    "id": 48,
+    "quote": "Programming isn't about what you know; it's about what you can figure out.",
+    "author": "Chris Pine"
+  },
+  {
+    "id": 49,
+    "quote": "The only way to learn a new programming language is by writing programs in it.",
+    "author": "Dennis Ritchie"
+  },
+  {
+    "id": 50,
+    "quote": "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.",
+    "author": "John Romero"
+  },
+  {
+    "id": 51,
+    "quote": "Programming is learned by writing programs.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "id": 52,
+    "quote": "The most important single aspect of software development is to be clear about what you are trying to build.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "id": 53,
+    "quote": "Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.",
+    "author": "Alan Perlis"
+  },
+  {
+    "id": 54,
+    "quote": "The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.",
+    "author": "Randall E. Stross"
+  },
+  {
+    "id": 55,
+    "quote": "Programming is the art of telling another human being what one wants the computer to do.",
+    "author": "Donald Knuth"
+  },
+  {
+    "id": 56,
+    "quote": "The best way to get a project done faster is to start sooner.",
+    "author": "Jim Highsmith"
+  },
+  {
+    "id": 57,
+    "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+    "author": "Tom Cargill"
+  },
+  {
+    "id": 58,
+    "quote": "In programming, the hard part isn't solving problems, but deciding what problems to solve.",
+    "author": "Paul Graham"
+  },
+  {
+    "id": 59,
+    "quote": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries"
+  },
+  {
+    "id": 60,
+    "quote": "The only valid measurement of code quality: WTFs/minute.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 61,
+    "quote": "Software is a great combination of artistry and engineering.",
+    "author": "Bill Gates"
+  },
+  {
+    "id": 62,
+    "quote": "The key to efficient development is to make interesting new mistakes.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 63,
+    "quote": "Good programmers use their brains, but good guidelines save us having to think out every case.",
+    "author": "Francis Glassborow"
+  },
+  {
+    "id": 64,
+    "quote": "The goal of Computer Science is to build something that will last at least until we've finished building it.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 65,
+    "quote": "One of the best programming skills you can have is knowing when to walk away for a while.",
+    "author": "Oscar Godson"
+  },
+  {
+    "id": 66,
+    "quote": "The hardest bugs are those where your mental model of the situation is just wrong, so you can't see the problem at all.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "id": 67,
+    "quote": "Testing leads to failure, and failure leads to understanding.",
+    "author": "Burt Rutan"
+  },
+  {
+    "id": 68,
+    "quote": "The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.",
+    "author": "Andrew Singer"
+  },
+  {
+    "id": 69,
+    "quote": "Programming is like sex. One mistake and you have to support it for the rest of your life.",
+    "author": "Michael Sinz"
+  },
+  {
+    "id": 70,
+    "quote": "There are two ways to write error-free programs; only the third works.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "id": 71,
+    "quote": "It's Monday. Time to build something cool!",
+    "author": "Anonymous"
+  },
+  {
+    "id": 72,
+    "quote": "Coffee in hand, IDE open. Let's make Monday our masterpiece.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 73,
+    "quote": "Today's code is tomorrow's legacy. Make it count.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 74,
+    "quote": "Mondays are for fresh starts and clean code.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 75,
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "id": 76,
+    "quote": "The expert in anything was once a beginner. Happy coding this Monday!",
+    "author": "Anonymous"
+  },
+  {
+    "id": 77,
+    "quote": "Your Monday morning thoughts set the tone for your whole week. See yourself getting stronger, and living a fulfilling, happier & healthier life.",
+    "author": "Germany Kent"
+  },
+  {
+    "id": 78,
+    "quote": "This Monday, be the developer you needed when you were a junior.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 79,
+    "quote": "The road to success is always under construction. Keep coding!",
+    "author": "Anonymous"
+  },
+  {
+    "id": 80,
+    "quote": "Monday: Turn your bugs into features.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 81,
+    "quote": "Every Monday is a chance to debug your life and optimize your week.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 82,
+    "quote": "Monday is a blank canvas. Paint it with elegant code.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 83,
+    "quote": "The best way to predict your future is to create it, one line of code at a time.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 84,
+    "quote": "Embrace the bugs - they're just unexpected features waiting to be discovered.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 85,
+    "quote": "Today's frustration is tomorrow's 'Eureka!' moment. Keep pushing.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 86,
+    "quote": "Code is poetry written in logic.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 87,
+    "quote": "The only bad code is code that's never written. Start typing!",
+    "author": "Anonymous"
+  },
+  {
+    "id": 88,
+    "quote": "Your code doesn't have to be perfect, it just has to exist. Iterate and improve.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 89,
+    "quote": "Every line of code is a step towards mastery.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 90,
+    "quote": "Don't fear Monday, it's just another opportunity to write beautiful code.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 91,
+    "quote": "Coding is not just about algorithms, it's about creating solutions that matter.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 92,
+    "quote": "Monday: Grab your keyboard and change the world, one function at a time.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 93,
+    "quote": "The best developers are those who never stop learning. What will you learn this week?",
+    "author": "Anonymous"
+  },
+  {
+    "id": 94,
+    "quote": "Your code can change lives. Make every line count.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 95,
+    "quote": "Monday is the perfect day to refactor your thoughts and optimize your goals.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 96,
+    "quote": "Great software is built by great teams. Be a great teammate today.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 97,
+    "quote": "The difference between a good developer and a great one is attention to detail. Polish your work.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 98,
+    "quote": "Every program is a solution waiting to solve someone's problem.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 99,
+    "quote": "Mondays are for moonshots. Dream big, code bigger.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 100,
+    "quote": "Your code is your legacy. Make it something you're proud of.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 101,
+    "quote": "Complexity is your enemy. Any fool can make something complicated. It is hard to make something simple.",
+    "author": "Richard Branson"
+  },
+  {
+    "id": 102,
+    "quote": "The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code - not in reams of trivial code that bores the reader to death.",
+    "author": "Guido van Rossum"
+  },
+  {
+    "id": 103,
+    "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "id": 104,
+    "quote": "The best code is no code at all.",
+    "author": "Jeff Atwood"
+  },
+  {
+    "id": 105,
+    "quote": "Programming isn't about what you know; it's about what you can figure out.",
+    "author": "Chris Pine"
+  },
+  {
+    "id": 106,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 107,
+    "quote": "The function of good software is to make the complex appear to be simple.",
+    "author": "Grady Booch"
+  },
+  {
+    "id": 108,
+    "quote": "Don't worry if it doesn't work right. If everything did, you'd be out of a job.",
+    "author": "Mosher's Law of Software Engineering"
+  },
+  {
+    "id": 109,
+    "quote": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs"
+  },
+  {
+    "id": 110,
+    "quote": "The most important single aspect of software development is to be clear about what you are trying to build.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "id": 111,
+    "quote": "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.",
+    "author": "Norman Augustine"
+  },
+  {
+    "id": 112,
+    "quote": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman"
+  },
+  {
+    "id": 113,
+    "quote": "Before software can be reusable it first has to be usable.",
+    "author": "Ralph Johnson"
+  },
+  {
+    "id": 114,
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "id": 115,
+    "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.",
+    "author": "Rich Cook"
+  },
+  {
+    "id": 116,
+    "quote": "The cheapest, fastest, and most reliable components are those that aren't there.",
+    "author": "Gordon Bell"
+  },
+  {
+    "id": 117,
+    "quote": "The best method for accelerating a computer is the one that boosts it by 9.8 m/s2.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 118,
+    "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+    "author": "Kent Beck"
+  },
+  {
+    "id": 119,
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard"
+  },
+  {
+    "id": 120,
+    "quote": "Optimism is an occupational hazard of programming; feedback is the treatment.",
+    "author": "Kent Beck"
+  },
+  {
+    "id": 121,
+    "quote": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+    "author": "Martin Fowler"
+  },
+  {
+    "id": 122,
+    "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exupery"
+  },
+  {
+    "id": 123,
+    "quote": "Programming is not about typing, it's about thinking.",
+    "author": "Rich Hickey"
+  },
+  {
+    "id": 124,
+    "quote": "Good code is its own best documentation.",
+    "author": "Steve McConnell"
+  },
+  {
+    "id": 125,
+    "quote": "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+    "author": "Tom Cargill"
+  },
+  {
+    "id": 126,
+    "quote": "Plan to throw one away; you will, anyhow.",
+    "author": "Fred Brooks"
+  },
+  {
+    "id": 127,
+    "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+    "author": "Patrick McKenzie"
+  },
+  {
+    "id": 128,
+    "quote": "The best thing about a boolean is even if you are wrong you are only off by a bit.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 129,
+    "quote": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+    "author": "Why The Lucky Stiff"
+  },
+  {
+    "id": 130,
+    "quote": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "id": 131,
+    "quote": "The great reward of computer programming is the pleasure of working with pure thought-stuff.",
+    "author": "Jaron Lanier"
+  },
+  {
+    "id": 132,
+    "quote": "The computer was born to solve problems that did not exist before.",
+    "author": "Bill Gates"
+  },
+  {
+    "id": 133,
+    "quote": "Computers are good at following instructions, but not at reading your mind.",
+    "author": "Donald Knuth"
+  },
+  {
+    "id": 134,
+    "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it's too late.",
+    "author": "Seymour Cray"
+  },
+  {
+    "id": 135,
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "id": 136,
+    "quote": "Theory is when you know something, but it doesn't work. Practice is when something works, but you don't know why. Programmers combine theory and practice: Nothing works and they don't know why.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 137,
+    "quote": "There are only two kinds of programming languages: those people always bitch about and those nobody uses.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "id": 138,
+    "quote": "Weeks of coding can save you hours of planning.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 139,
+    "quote": "Any sufficiently advanced bug is indistinguishable from a feature.",
+    "author": "Rich Kulawiec"
+  },
+  {
+    "id": 140,
+    "quote": "Hardware eventually fails. Software eventually works.",
+    "author": "Michael Hartung"
+  },
+  {
+    "id": 141,
+    "quote": "It's Monday. The perfect time to reboot your mind and recharge your focus.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 142,
+    "quote": "The code you write makes a developer. The code you delete makes you a good one.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 143,
+    "quote": "Mondays are the start of the workweek which offer new beginnings 52 times a year!",
+    "author": "David Dweck"
+  },
+  {
+    "id": 144,
+    "quote": "Your imagination is your preview of life's coming attractions.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 145,
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "id": 146,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 147,
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 148,
+    "quote": "Do not try to fix the old code. Improve the new one.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 149,
+    "quote": "Coding is today's language of creativity.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 150,
+    "quote": "Monday is a great day to have a great day!",
+    "author": "Anonymous"
+  },
+  {
+    "id": 151,
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 152,
+    "quote": "Your Monday morning thoughts set the tone for your whole week. See yourself getting stronger, and living a fulfilling, happier & healthier life.",
+    "author": "Germany Kent"
+  },
+  {
+    "id": 153,
+    "quote": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "id": 154,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 155,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 156,
+    "quote": "The road to success is always under construction.",
+    "author": "Lily Tomlin"
+  },
+  {
+    "id": 157,
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 158,
+    "quote": "The harder you work for something, the greater you'll feel when you achieve it.",
+    "author": "Anonymous"
+  },
+  {
+    "id": 159,
+    "quote": "Dream big. Start small. But most of all, start.",
+    "author": "Simon Sinek"
+  },
+  {
+    "id": 160,
+    "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett"
+  },
+  {
+    "id": 161,
+    "quote": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett"
+  }
+]
